@@ -4,4 +4,5 @@ mountpoints:
     type: "markup"
     suffix: ".html"
 /blogs: 
-    url: https://drive.google.com/drive/folders/1J_KuP9SmogkJ0x7TkWode3atbVNqpYrC
+    url: "https://drive.google.com/drive/folders/1J_KuP9SmogkJ0x7TkWode3atbVNqpYrC"
+    type: "google"
